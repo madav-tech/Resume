@@ -17,6 +17,11 @@ h2 {
     padding-bottom: .7em;
 }
 
+h1, h2 {
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
 main {
     display: grid;
     grid-template-columns: 40% 60%;
@@ -62,10 +67,6 @@ hr {
     /* height: 2px; */
 }
 
-h1, h2 {
-    font-weight: 100;
-    margin-bottom: 0;
-}
 
 ul.additionalSkills {
     padding-left: 2em;

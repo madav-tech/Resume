@@ -32,11 +32,10 @@ header {
     text-align: center;
     margin: auto 2em;
     background-color: rgb(48, 76, 99);
+    color: whitesmoke
 }
 
 .title {
-    color: whitesmoke;
-    background-color: rgb(48, 76, 99);
     padding-left: 10px;
     margin-bottom: 0;
     padding-bottom: .6em;
@@ -45,8 +44,6 @@ header {
 .subTitle {
     padding-bottom: .9em;
     margin-top: 0px;
-    color: whitesmoke;
-    background-color: rgb(48, 76, 99);
 }
 
 section {

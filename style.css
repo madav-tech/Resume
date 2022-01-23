@@ -64,9 +64,7 @@ p {
 hr {
     border: none;
     background-color: white;
-    /* height: 2px; */
 }
-
 
 ul.additionalSkills {
     padding-left: 2em;
@@ -76,6 +74,6 @@ ul.additionalSkills {
     border-right: 1px solid rgb(134, 188, 219);
 }
 
-body h3 {
+h3.sectionSubTitle{
     font-weight: 600;
 }

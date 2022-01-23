@@ -75,3 +75,7 @@ ul.additionalSkills {
 #mainLeft {
     border-right: 1px solid rgb(134, 188, 219);
 }
+
+h3 {
+    font-weight: 600;
+}

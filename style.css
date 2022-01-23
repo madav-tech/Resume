@@ -14,7 +14,7 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    padding-bottom: 1em;
+    padding-bottom: .7em;
 }
 
 main {
@@ -26,17 +26,20 @@ main {
 header {
     text-align: center;
     margin: auto 2em;
-    /* color: whitesmoke; */
     background-color: rgb(48, 76, 99);
 }
 
 .title {
     color: whitesmoke;
     background-color: rgb(48, 76, 99);
+    padding-left: 10px;
+    margin-bottom: 0;
+    padding-bottom: .6em;
 }
 
 .subTitle {
-    padding-bottom: .5em;
+    padding-bottom: .9em;
+    margin-top: 0px;
     color: whitesmoke;
     background-color: rgb(48, 76, 99);
 }
@@ -62,6 +65,10 @@ hr {
 h1, h2 {
     font-weight: 100;
     margin-bottom: 0;
+}
+
+ul.additionalSkills {
+    padding-left: 2em;
 }
 
 #mainLeft {

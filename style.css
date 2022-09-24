@@ -64,6 +64,10 @@ hr {
     background-color: white;
 }
 
+a {
+    color: blue;
+}
+
 ul.leftColumnList {
     padding-left: 2em;
 }
